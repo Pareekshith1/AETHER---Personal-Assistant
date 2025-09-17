@@ -55,3 +55,7 @@ outputs/
 Lib/
 Scripts/
 
+# Virtualenv config
+pyvenv.cfg
+
+
