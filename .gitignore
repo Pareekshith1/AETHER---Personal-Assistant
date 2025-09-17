@@ -1,0 +1,57 @@
+# created by virtualenv automatically
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+env.bak/
+
+# =========================
+# PyCharm / IntelliJ
+# =========================
+.idea/
+*.iml
+
+# =========================
+# OS Specific
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs / Temp Files
+# =========================
+*.log
+*.tmp
+*.swp
+
+# =========================
+# Project Specific
+# =========================
+# If you record audio/temp files, ignore them:
+*.wav
+*.mp3
+
+# If you save transcripts or output:
+transcripts/
+outputs/
+
+# Virtual environment stuff
+Lib/
+Scripts/
+
