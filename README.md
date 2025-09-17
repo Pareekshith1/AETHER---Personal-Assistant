@@ -1,1 +1,1 @@
-# Aether - Personal Assistant Version 1.0
+# AETHER - Personal Assistant Version 1.0
